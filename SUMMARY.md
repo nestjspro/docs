@@ -12,6 +12,7 @@
       * [AMQPService](libraries/nestjs.pro-amqp/documentation/classes/amqpservice.md)
       * [AMQPConnection](libraries/nestjs.pro-amqp/documentation/classes/amqpconnection/README.md)
         * [rpcCall](libraries/nestjs.pro-amqp/documentation/classes/amqpconnection/rpccall.md)
+    * [AMQPMessage](libraries/nestjs.pro-amqp/documentation/amqpmessage.md)
     * [Types](libraries/nestjs.pro-amqp/documentation/types/README.md)
       * [AMQPMessage](libraries/nestjs.pro-amqp/documentation/types/amqpmessage.md)
       * [AMQPRPCCall](libraries/nestjs.pro-amqp/documentation/types/amqprpccall.md)
